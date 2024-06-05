@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T14:55:11.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qtnNm5YleghH4CF5hwcH" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T14:55:31.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vmoCsA_cjM1yERw6OvmP" version="24.4.14" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="none" math="0" shadow="0">
       <root>
@@ -123,9 +123,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bCbuyVdx1WlMGgOUMZQT-38" value="Vége" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1430" width="240" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="bCbuyVdx1WlMGgOUMZQT-39" value="Vevői reklamáció volt e?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1200" width="240" height="80" as="geometry" />
         </mxCell>
@@ -197,13 +194,6 @@
         </mxCell>
         <mxCell id="bCbuyVdx1WlMGgOUMZQT-57" value="Lezárás&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1318" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bCbuyVdx1WlMGgOUMZQT-58" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="400" y="1380" as="sourcePoint" />
-            <mxPoint x="400" y="1430" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

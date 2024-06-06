@@ -1,46 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T15:06:05.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pU3ZEqTQp3nnnMmEwOwH" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T08:48:26.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sAQAVKhQpSgsUnDs8oAH" version="24.4.14" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="60e70716793133e9-4" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;Ingatlanüzemeltetés&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;BtbKhpzwE4qU60kqDjoo&quot; size=&quot;3&quot;&gt;Követelés kezelés&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="460" y="20" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mCzXiH6NWdjLSZmSII8E-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="60e70716793133e9-4" edge="1">
+        <mxCell id="mCzXiH6NWdjLSZmSII8E-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="160" as="sourcePoint" />
-            <mxPoint x="560" y="120" as="targetPoint" />
+            <mxPoint x="560" y="115" as="sourcePoint" />
+            <mxPoint x="560" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-3" value="&lt;font face=&quot;Tahoma&quot;&gt;Bérbe adó&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Tahoma&quot;&gt;select eo_cores&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="120" width="200" height="60" as="geometry" />
+          <mxGeometry x="460" y="155" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-4" value="Bérbe vevő&lt;div&gt;select par_partners&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="220" width="200" height="60" as="geometry" />
+          <mxGeometry x="460" y="255" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-3" target="mCzXiH6NWdjLSZmSII8E-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="sourcePoint" />
-            <mxPoint x="620" y="280" as="targetPoint" />
+            <mxPoint x="570" y="365" as="sourcePoint" />
+            <mxPoint x="620" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="559.5" y="280" as="sourcePoint" />
-            <mxPoint x="559.5" y="310" as="targetPoint" />
+            <mxPoint x="559.5" y="315" as="sourcePoint" />
+            <mxPoint x="559.5" y="345" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="559.5" y="300" />
+              <mxPoint x="559.5" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-8" value="SUP adatbázis&lt;div&gt;kapcsolat&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="505" y="310" width="110" height="90" as="geometry" />
+          <mxGeometry x="505" y="345" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mCzXiH6NWdjLSZmSII8E-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-8" target="mCzXiH6NWdjLSZmSII8E-15" edge="1">
+        <mxCell id="mCzXiH6NWdjLSZmSII8E-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="440" as="sourcePoint" />
-            <mxPoint x="700" y="360" as="targetPoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="400" />
             </Array>
@@ -48,27 +45,15 @@
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-14" value="Nem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="mCzXiH6NWdjLSZmSII8E-13" vertex="1" connectable="0">
           <mxGeometry x="-0.5" y="1" relative="1" as="geometry">
-            <mxPoint y="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCzXiH6NWdjLSZmSII8E-15" value="Nem lehetséges a kapcsolat" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="290" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mCzXiH6NWdjLSZmSII8E-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="280" as="sourcePoint" />
-            <mxPoint x="560" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="700" y="260" />
-            </Array>
+            <mxPoint x="-59" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="440" as="sourcePoint" />
-            <mxPoint x="420" y="400" as="targetPoint" />
+            <mxPoint x="510" y="475" as="sourcePoint" />
+            <mxPoint x="420" y="435" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="355" />
+              <mxPoint x="420" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,50 +63,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-23" value="JIRA RC" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="403" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="438" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="448" as="sourcePoint" />
-            <mxPoint x="419.5" y="478" as="targetPoint" />
+            <mxPoint x="419.5" y="483" as="sourcePoint" />
+            <mxPoint x="419.5" y="513" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419.5" y="468" />
+              <mxPoint x="419.5" y="503" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-26" value="311000 Vevői követelés egyenlege" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="515" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-27" value="479101 Bérlőtől kapott kaució&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="560" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="595" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="525" as="sourcePoint" />
-            <mxPoint x="419.5" y="555" as="targetPoint" />
+            <mxPoint x="419.5" y="560" as="sourcePoint" />
+            <mxPoint x="419.5" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419.5" y="545" />
+              <mxPoint x="419.5" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="605" as="sourcePoint" />
-            <mxPoint x="420" y="638" as="targetPoint" />
+            <mxPoint x="419.5" y="640" as="sourcePoint" />
+            <mxPoint x="420" y="673" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419.5" y="625" />
+              <mxPoint x="419.5" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-31" value="Kamat BTK szerint" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="639" width="180" height="90" as="geometry" />
+          <mxGeometry x="330" y="674" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="475" y="684" as="sourcePoint" />
-            <mxPoint x="560" y="719" as="targetPoint" />
+            <mxPoint x="475" y="719" as="sourcePoint" />
+            <mxPoint x="560" y="754" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="729" />
+              <mxPoint x="560" y="764" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,25 +116,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-39" value="Kamat %" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="719" width="160" height="45" as="geometry" />
+          <mxGeometry x="480" y="754" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-40" value="Feladat" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="789" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="824" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-39" target="mCzXiH6NWdjLSZmSII8E-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="779" as="sourcePoint" />
-            <mxPoint x="487" y="813" as="targetPoint" />
+            <mxPoint x="465" y="814" as="sourcePoint" />
+            <mxPoint x="487" y="848" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="799" />
-              <mxPoint x="550" y="824" />
+              <mxPoint x="560" y="834" />
+              <mxPoint x="550" y="859" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="mCzXiH6NWdjLSZmSII8E-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="731" as="sourcePoint" />
-            <mxPoint x="420" y="764" as="targetPoint" />
+            <mxPoint x="419.5" y="766" as="sourcePoint" />
+            <mxPoint x="420" y="799" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -159,14 +144,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-47" value="Van még feladat?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="869" width="180" height="90" as="geometry" />
+          <mxGeometry x="330" y="904" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="mCzXiH6NWdjLSZmSII8E-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="814" as="sourcePoint" />
-            <mxPoint x="420" y="769" as="targetPoint" />
+            <mxPoint x="260" y="849" as="sourcePoint" />
+            <mxPoint x="420" y="804" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="799" />
+              <mxPoint x="300" y="834" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,17 +162,17 @@
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="834" as="sourcePoint" />
-            <mxPoint x="420" y="867" as="targetPoint" />
+            <mxPoint x="419.5" y="869" as="sourcePoint" />
+            <mxPoint x="420" y="902" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419.5" y="854" />
+              <mxPoint x="419.5" y="889" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="959" as="sourcePoint" />
-            <mxPoint x="420" y="999" as="targetPoint" />
+            <mxPoint x="419.5" y="994" as="sourcePoint" />
+            <mxPoint x="420" y="1034" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -197,39 +182,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-56" value="Vége" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1239" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="1274" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-58" value="Pénzügyes-Könyvelő" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="999" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="1034" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="1044" as="sourcePoint" />
-            <mxPoint x="420" y="1077" as="targetPoint" />
+            <mxPoint x="419.5" y="1079" as="sourcePoint" />
+            <mxPoint x="420" y="1112" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419.5" y="1064" />
+              <mxPoint x="419.5" y="1099" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-60" value="Értesítés" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1079" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="1114" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-61" value="Státusz = &#39;Könyvelőre vár&#39;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1159" width="200" height="45" as="geometry" />
+          <mxGeometry x="320" y="1194" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="1124" as="sourcePoint" />
-            <mxPoint x="420" y="1157" as="targetPoint" />
+            <mxPoint x="419.5" y="1159" as="sourcePoint" />
+            <mxPoint x="420" y="1192" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mCzXiH6NWdjLSZmSII8E-64" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="420" y="1209" as="sourcePoint" />
-            <mxPoint x="420" y="1239" as="targetPoint" />
+            <mxPoint x="420" y="1244" as="sourcePoint" />
+            <mxPoint x="420" y="1274" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R08khRGKAjiLaZgrX1Kq-2" value="&lt;font face=&quot;Tahoma&quot;&gt;Ingatlanüzemeltetés&lt;/font&gt;&lt;div style=&quot;font-family: Verdana; font-size: 8px;&quot;&gt;&lt;font face=&quot;BtbKhpzwE4qU60kqDjoo&quot; size=&quot;3&quot;&gt;Követelés kezelés&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="40" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

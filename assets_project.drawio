@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:40:28.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JJ71H5gYRhLja-f98D4M" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T08:41:20.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H0QTtCDOu5Tl1YiKHQVi" version="24.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,13 +258,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOYk4QfzvSBactdOtRVu-111" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Hibaüzenet&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="1704" width="160" height="40" as="geometry" />
+          <mxGeometry x="700" y="1699" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mOYk4QfzvSBactdOtRVu-112" value="Kamat számítási&amp;nbsp;&lt;div&gt;kitétel&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;üres&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="1604" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mOYk4QfzvSBactdOtRVu-114" value="Kilép" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="1784" width="180" height="40" as="geometry" />
+          <mxGeometry x="700" y="1773" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mOYk4QfzvSBactdOtRVu-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mOYk4QfzvSBactdOtRVu-118" target="mOYk4QfzvSBactdOtRVu-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
